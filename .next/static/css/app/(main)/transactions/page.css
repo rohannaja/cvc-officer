@@ -1,0 +1,295 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/(main)/transactions/transactions.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.transactions_main_content_container__6a4lW{
+    margin: 0;
+    padding: 5px 40px 40px 40px;
+    display: flex;
+    flex-flow: column;
+    min-width: 800px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+.transactions_main_cta_row__QnyqH{
+    margin: 0 0 10px 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.transactions_cta_filter_div__uaeKv{
+    margin: auto auto auto 0;
+    padding: 0;
+    display: flex;
+}
+
+.transactions_cta_filt_btn__uEva1{
+    margin: auto 5px;
+    padding: 5px 15px;
+    font-size: 0.812rem;
+    font-weight: 500;
+    color: #2B2D42;
+    background-color: #EDF2F4;
+    border: #2B2D42 solid 1px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.transactions_cta_filt_btn__uEva1:hover{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+.transactions_cta_filt_active_btn__QZCo_{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+.transactions_cta_newacc_btn__HkorM{
+    margin: auto 0;
+    padding: 10px 30px;
+    background-color: #2B2D42;
+    color: #EDF2F4;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.transactions_cta_newacc_btn__HkorM:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}
+
+
+
+/* 
+
+    ACCOUNT LIST ITEM
+
+*/
+.transactions_main_list_container__JtdSg{
+    margin: 0;
+    padding: 0;
+}
+
+.transactions_main_list_label_div__3cm9G{
+    margin: 10px auto 5px auto;
+    padding: 0;
+    display: flex;
+    width: 100%;
+}
+
+.transactions_list_label_trnid_div__Z4hpZ{
+    margin: auto 0 auto 15px;
+    padding: 0;
+    width: 20%;
+}
+
+.transactions_list_label_trnid__Nxwe_{
+    font-size: 0.625rem;
+}
+
+.transactions_list_label_date_div__Hl0yo{
+    margin: auto 0;
+    padding: 0;
+    width: 15%;
+}
+
+.transactions_list_label_date__vg4aX{
+    font-size: 0.625rem;
+}
+
+.transactions_list_label_type_div__xi_fc{
+    margin: auto 0;
+    padding: 0;
+    display: flex;
+    width: 15%;
+}
+
+.transactions_list_label_type__GDHuS{
+    margin: auto;
+    font-size: 0.625rem;
+}
+
+.transactions_list_label_user_div__bEz4q{
+    margin: auto 0;
+    padding: 0;
+    width: 20%;
+}
+
+.transactions_list_label_user__tzKG2{
+    font-size: 0.625rem;
+}
+
+.transactions_list_label_status_div__q5ym_{
+    margin: auto 0;
+    padding: 0;
+    display: flex;
+    width: 15%;
+}
+
+.transactions_list_label_status__C096_{
+    margin: auto;
+    font-size: 0.625rem;
+}
+
+.transactions_list_label_cta_div__KvFd0{
+    margin: auto 0;
+    padding: 0;
+    width: 15%;
+    display: flex;
+}
+
+.transactions_list_label_cta__y12QR{
+    margin: auto 10px auto auto;
+    font-size: 0.625rem;
+}
+
+
+
+/* 
+
+    LIST ITEM
+
+*/
+.transactions_main_list_item_container__EN3D8{
+    margin: 0 0 10px 0;
+    padding: 5px;
+    display: flex;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.transactions_list_item_trnid_div__s_KVx{
+    margin: auto 0 auto 10px;
+    padding: 0;
+    width: 20%;
+}
+
+.transactions_list_item_trnid__5x5q_{
+    font-size: 0.625rem;
+    font-weight: 700;
+}
+
+.transactions_list_item_date_div__B_1M7{
+    margin: auto 0;
+    padding: 0;
+    width: 15%;
+}
+
+.transactions_list_item_date__Wwk7U{
+    font-size: 0.625rem;
+    font-weight: 700;
+}
+
+.transactions_list_item_type_div__sgK6F{
+    margin: auto 0;
+    padding: 0;
+    display: flex;
+    width: 15%;
+}
+
+.transactions_list_item_type__9IWa6{
+    margin: auto;
+    padding: 5px 20px;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.transactions_list_item_user_div__Lb48r{
+    margin: auto 0;
+    padding: 0;
+    width: 20%;
+}
+
+.transactions_list_item_user__73rXp{
+    font-size: 0.625rem;
+    font-weight: 700;
+}
+
+.transactions_list_item_status_div__gHcVE{
+    margin: auto 0;
+    padding: 0;
+    display: flex;
+    width: 15%;
+}
+
+.transactions_list_item_status__xRBiK{
+    margin: auto;
+    padding: 5px 20px;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.transactions_list_item_cta_div__u_jxL{
+    margin: auto 0;
+    padding: 0;
+    width: 15%;
+    display: flex;
+}
+
+.transactions_list_item_cta__ogCtr{
+    margin: auto 0 auto auto;
+    padding: 5px 20px;
+    background-color: #2B2D42;
+    color: #FFFFFF;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+}
+
+.transactions_list_item_cta__ogCtr:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}
+

@@ -1,0 +1,246 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/(main)/accounts/accounts.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.accounts_main_content_container__nBc5G{
+    margin: 0;
+    padding: 5px 40px 40px 40px;
+    display: flex;
+    flex-flow: column;
+    min-width: 800px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+.accounts_main_cta_row__2tMjt{
+    margin: 0 0 10px 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.accounts_cta_filter_div___cA0A{
+    margin: auto auto auto 0;
+    padding: 0;
+    display: flex;
+}
+
+.accounts_cta_filt_btn__buKSx{
+    margin: auto 5px;
+    padding: 5px 15px;
+    font-size: 0.812rem;
+    font-weight: 500;
+    color: #2B2D42;
+    background-color: #EDF2F4;
+    border: #2B2D42 solid 1px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.accounts_cta_filt_btn__buKSx:hover{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+.accounts_cta_filt_active_btn__k_wqU{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+.accounts_cta_newacc_btn__Rdmtz{
+    margin: auto 0;
+    padding: 10px 30px;
+    background-color: #2B2D42;
+    color: #EDF2F4;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.accounts_cta_newacc_btn__Rdmtz:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}
+
+
+
+/* 
+
+    ACCOUNT LIST ITEM
+
+*/
+.accounts_main_list_label_div__mLhjv{
+    margin: 10px auto;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.accounts_list_label_photo_div__YOLrI{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 55px;
+}
+
+.accounts_list_label_name_div___fs0u{
+    margin: 0 0 0 15px;
+    padding: 0;
+    display: flex;
+    width: 250px;
+}
+
+.accounts_list_label_name__Xcr9g{
+    margin: auto 0;
+    font-size: 0.812rem;
+}
+
+.accounts_list_label_role_div__mwnk_{
+    margin: auto;
+    padding: 0;
+    display: flex;
+    width: 100px;
+}
+
+.accounts_list_label_role__2TxCw{
+    margin: auto;
+    font-size: 0.812rem;
+}
+
+.accounts_list_label_cta_div__t4FDV{
+    margin: 0 20px 0 0;
+    padding: 0;
+    display: flex;
+    width: 140px;
+}
+
+.accounts_main_list_container__ICgcE{
+    margin: 0;
+    padding: 0;
+}
+
+.accounts_main_list_item_container__ra2lt{
+    margin: 10px auto;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.accounts_list_item_photo_div__roVFD{
+    margin: 5px;
+    padding: 0;
+    display: flex;
+    width: 52px;
+    height: 52px;
+}
+
+.accounts_list_item_photo__n1WNF{
+    margin: auto;
+    padding: 0;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: #8D99AE solid 1px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.accounts_list_item_name_div__DgAZ5{
+    margin: auto 0 auto 10px;
+    padding: 0;
+    width: 250px;
+    overflow: hidden;
+}
+
+.accounts_list_item_name__cWfdT{
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.accounts_list_item_role_div__LmGzO{
+    margin: auto;
+    padding: 0;
+    display: flex;
+    width: 100px;
+}
+
+.accounts_list_item_role__ZbJNr{
+    margin: auto;
+    padding: 5px 15px;
+    background-color: #2B2D42;
+    color: #FFFFFF;
+    font-size: 0.812rem;
+    font-weight: 300;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.accounts_list_item_cta_div__JuQA9{
+    margin: auto 20px auto 0;
+    padding: 0;
+    display: flex;
+}
+
+.accounts_list_item_cta__pg9Bk{
+    margin: auto;
+    padding: 10px 30px;
+    background-color: #2B2D42;
+    color: #FFFFFF;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+}
+
+.accounts_list_item_cta__pg9Bk:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}

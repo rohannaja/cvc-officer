@@ -1,0 +1,209 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/(main)/properties/properties.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.properties_main_content_container__oAc4r{
+    margin: 0;
+    padding: 5px 40px 40px 40px;
+    display: flex;
+    flex-flow: column;
+    min-width: 800px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+}
+
+.properties_main_cta_row__lo90W{
+    margin: 0 0 10px 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.properties_cta_filter_div__Zjt0S{
+    margin: auto auto auto 0;
+    padding: 0;
+    display: flex;
+}
+
+.properties_cta_filt_btn__nbhyj{
+    margin: auto 5px;
+    padding: 5px 15px;
+    font-size: 0.812rem;
+    font-weight: 500;
+    color: #2B2D42;
+    background-color: #EDF2F4;
+    border: #2B2D42 solid 1px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.properties_cta_filt_btn__nbhyj:hover{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+.properties_cta_filt_active_btn__2i16o{
+    background-color: #FFC145;
+    border: #FFC145 solid 1px;
+}
+
+
+.properties_cta_newprop_btn__9MK2f{
+    margin: auto 0;
+    padding: 10px 30px;
+    background-color: #2B2D42;
+    color: #EDF2F4;
+    font-size: 0.812rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+    cursor: pointer;
+}
+
+.properties_cta_newprop_btn__9MK2f:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}
+
+
+
+/* 
+
+    ACCOUNT LIST ITEM
+
+*/
+
+.properties_main_grid_container__EjLRu{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: wrap;
+    width: 100%;
+}
+
+.properties_main_grid_item_container__4rY_8{
+    margin: 10px;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+    width: 344px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.properties_grid_item_photo_div__v7OZ5{
+    margin: 10px;
+    padding: 0;
+}
+
+.properties_grid_item_photo__p7bVd{
+    margin: 0;
+    padding: 0;
+    display: block;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.properties_grid_item_residence_div__qyO9D{
+    margin: 0 20px;
+    padding: 0;
+}
+
+.properties_grid_item_residence__YwM_K{
+
+}
+
+.properties_grid_item_owner_div__3n8R7{
+    margin: 10px 20px;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+}
+
+.properties_grid_item_owner_label__53WWa{
+    font-size: 0.625rem;
+}
+
+.properties_grid_item_owner__7u83I{
+    margin: 2px 0 0 0;
+    font-size: 0.812rem;
+    font-weight: 500;
+}
+
+.properties_grid_item_address_div__Nk_OE{
+    margin: 0 20px;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+}
+
+.properties_grid_item_address_label__r1Sg1{
+    font-size: 0.625rem;
+}
+
+.properties_grid_item_address__MLS8u{
+    margin: 2px 0 0 0;
+    font-size: 0.812rem;
+    font-weight: 500;
+}
+
+.properties_grid_item_cta_div__ksBWZ{
+    margin: 20px;
+    padding: 0;
+    display: flex;
+}
+
+.properties_grid_item_cta__8hKH8{
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+    background-color: #2B2D42;
+    text-align: center;
+    font-size: 0.812rem;
+    font-weight: 500;
+    color: #EDF2F4;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    transition: all ease 0.2s;
+    -webkit-transition: all ease 0.2s;
+    -moz-transition: all ease 0.2s;
+    -ms-transition: all ease 0.2s;
+    -o-transition: all ease 0.2s;
+}
+
+.properties_grid_item_cta__8hKH8:hover{
+    background-color: #FFC145;
+    color: #2B2D42;
+}
+

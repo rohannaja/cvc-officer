@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/(main)/properties/page": "app/(main)/properties/page.js",
+  "/(main)/accounts/page": "app/(main)/accounts/page.js",
+  "/(main)/dashboard/page": "app/(main)/dashboard/page.js",
+  "/(main)/properties/[prop_id]/page": "app/(main)/properties/[prop_id]/page.js",
+  "/(main)/accounts/[usr_id]/page": "app/(main)/accounts/[usr_id]/page.js",
+  "/(main)/transactions/page": "app/(main)/transactions/page.js"
+}

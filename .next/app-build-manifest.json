@@ -1,0 +1,81 @@
+{
+  "pages": {
+    "/(main)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/dashboard/page.css",
+      "static/chunks/app/(main)/dashboard/page.js"
+    ],
+    "/(main)/dashboard/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/dashboard/layout.css",
+      "static/chunks/app/(main)/dashboard/layout.js"
+    ],
+    "/(main)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(main)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/(main)/properties/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/properties/page.css",
+      "static/chunks/app/(main)/properties/page.js"
+    ],
+    "/(main)/properties/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/properties/layout.css",
+      "static/chunks/app/(main)/properties/layout.js"
+    ],
+    "/(main)/accounts/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/accounts/page.css",
+      "static/chunks/app/(main)/accounts/page.js"
+    ],
+    "/(main)/accounts/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/accounts/layout.css",
+      "static/chunks/app/(main)/accounts/layout.js"
+    ],
+    "/(main)/accounts/[usr_id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/accounts/[usr_id]/page.css",
+      "static/chunks/app/(main)/accounts/[usr_id]/page.js"
+    ],
+    "/(main)/transactions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/transactions/page.css",
+      "static/chunks/app/(main)/transactions/page.js"
+    ],
+    "/(main)/transactions/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/transactions/layout.css",
+      "static/chunks/app/(main)/transactions/layout.js"
+    ],
+    "/(main)/properties/[prop_id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(main)/properties/[prop_id]/page.css",
+      "static/chunks/app/(main)/properties/[prop_id]/page.js"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+.page_main__nw1Wk{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: column;
+}
+
+.page_main_container__HepoL{
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.page_main_hero_div__8PCaE{
+  margin: 0;
+  padding: 0;
+  flex-flow: column;
+  background-image: url(/_next/static/media/cvlogin_background.c55521db.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 50%;
+  height: 100vh;
+}
+
+.page_main_hero_logo_div__h5TLi{
+  margin: 10%;
+}
+
+.page_hero_logo__g_JgQ{
+  margin: 0;
+  padding: 0;
+}
+
+.page_hero_logo__g_JgQ img{
+  display: block;
+}
+
+.page_main_hero_info_div__BhyRY{
+  margin: 20% 10%;
+  padding: 0;
+  color: #EDF2F4;
+}
+
+.page_main_hero_ver_div__eUaw3{
+  margin: 0 20px 20px 20px;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+}
+
+.page_hero_ver__DbmlU{
+  font-size: 0.812rem;
+  font-weight: 500;
+  color: #EDF2F4;
+}
+
+.page_main_login_div__3uQcJ{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: column;
+  width: 50%;
+  height: 100vh;
+}
+
+.page_main_login_head_div__Glo6o{
+  margin: 30% 20% 0 20%;
+  padding: 0;
+  color: #2B2D42;
+}
+
+.page_main_login_form_container__BOPTd{
+  margin: 0 20% 30% 20%;
+  padding: 0;
+  color: #2B2D42;
+}
+
+.page_main_login_form_div__DHtSe{
+  margin: 30px 0 0 0;
+}
+
+.page_login_form__6qS3S{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+}
+
+.page_login_message__NZ6ud{
+  margin: 0 0 10px 0;
+  padding: 0;
+  font-size: 0.812rem;
+  font-weight: 700;
+  color: #D10000;
+}
+
+.page_login_formgroup__rNxkR{
+  margin: 0 0 10px 0;
+  padding: 0;
+  display: flex;
+  flex-flow: column;
+}
+
+.page_formgroup_label__9erdD{
+  margin: 5px 10px;
+  padding: 0;
+  font-size: 0.812rem;
+  font-weight: 500;
+}
+
+.page_formgroup_input__G6k_Z{
+  margin: 0;
+  padding: 10px 15px;
+  border: #2B2D42 solid 2px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  background-color: #EDF2F4;
+  font-size: 0.812rem;
+  outline: none;
+  transition: all ease 0.2s;
+  -webkit-transition: all ease 0.2s;
+  -moz-transition: all ease 0.2s;
+  -ms-transition: all ease 0.2s;
+  -o-transition: all ease 0.2s;
+}
+
+.page_formgroup_input__G6k_Z:focus{
+  border: #FFC145 solid 2px;
+}
+
+.page_login_cta_div__4MlBi{
+  margin: 40px 0 0 0;
+  padding: 0;
+}
+
+.page_login_cta_btn__JsMvv{
+  margin: 0;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  background-color: #2B2D42;
+  color: #EDF2F4;
+  font-size: 1rem;
+  font-weight: 500;
+  width: 100%;
+  outline: none;
+  transition: all ease 0.2s;
+  -webkit-transition: all ease 0.2s;
+  -moz-transition: all ease 0.2s;
+  -ms-transition: all ease 0.2s;
+  -o-transition: all ease 0.2s;
+  cursor: pointer;
+}
+
+.page_login_cta_btn__JsMvv:hover{
+  background-color: #FFC145;
+  color: #2B2D42;
+}
